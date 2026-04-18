@@ -39,6 +39,6 @@ The goal of this project is to identify the key factors that influence final stu
 - heatmap.png
 - failures_vs_grade.png
 
-## Next Step
+## Final Step
 
 Building a machine learning model to predict final student grades and creating an interactive dashboard application.
